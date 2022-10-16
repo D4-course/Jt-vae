@@ -26,6 +26,10 @@ will run on port 5000
 
 READMEs are mentioned in respective directories.
 
+pylint score is less as there are less formatters supporting for python 2.7 </br>
+Change in pylint score after modification is 7 on average </br>
+Current pylint score is around 5 averaging over all files. </br>
+
 ## File structure
 ```
 .
